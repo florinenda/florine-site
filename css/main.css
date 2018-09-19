@@ -1,1 +1,53 @@
+body {
+  background-color: white;
+}
 
+h1 {
+  font-size: 44px;
+  color: #F4909F;
+}
+
+p {
+  font-size: 20px;
+}
+
+a {
+  color: green;
+  text-decoration: none;
+}
+
+a.botao {
+  color: white;
+  background-color: #4A90E2;
+  padding: 10px 10px 10px 10px;
+}
+
+.cabecalho {
+  color: green;
+  background: blue;
+}
+
+.introducao {
+  background-color: white;
+}
+
+.introducao p.texto-medio {
+  font-size: 16px;
+}
+
+.introducao p a img {
+
+}
+
+.rodape {
+  background-color: white;
+}
+
+.rodape p.texto-pequeno {
+  font-size: 13px;
+  color: #9B9B9B;
+}
+
+.rodape p {
+  text-align: center;
+}
